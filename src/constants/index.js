@@ -106,23 +106,23 @@ import {
       links: [
         {
           name: "Content",
-          link: "https://portfolio.www.holyentgoldconcept.com/",
+          link: "https://portfolio.holyentgoldconcept.com/",
         },
         {
           name: "How it Works",
-          link: "https://portfolio.www.holyentgoldconcept.com/",
+          link: "https://portfolio.holyentgoldconcept.com/",
         },
         {
           name: "Create",
-          link: "https://portfolio.www.holyentgoldconcept.com/",
+          link: "https://portfolio.holyentgoldconcept.com/",
         },
         {
           name: "Explore",
-          link: "https://portfolio.www.holyentgoldconcept.com/",
+          link: "https://portfolio.holyentgoldconcept.com/",
         },
         {
           name: "Terms & Services",
-          link: "https://portfolio.www.holyentgoldconcept.com/",
+          link: "https://portfolio.holyentgoldconcept.com/",
         },
       ],
     },
@@ -131,23 +131,23 @@ import {
       links: [
         {
           name: "Help Center",
-          link: "https://portfolio.www.holyentgoldconcept.com/",
+          link: "https://portfolio.holyentgoldconcept.com/",
         },
         {
           name: "Partners",
-          link: "https://portfolio.www.holyentgoldconcept.com/",
+          link: "https://portfolio.holyentgoldconcept.com/",
         },
         {
           name: "Suggestions",
-          link: "https://portfolio.www.holyentgoldconcept.com/",
+          link: "https://portfolio.holyentgoldconcept.com/",
         },
         {
           name: "Blog",
-          link: "https://portfolio.www.holyentgoldconcept.com/",
+          link: "https://portfolio.holyentgoldconcept.com/",
         },
         {
           name: "Newsletters",
-          link: "https://portfolio.www.holyentgoldconcept.com/",
+          link: "https://portfolio.holyentgoldconcept.com/",
         },
       ],
     },
@@ -156,11 +156,11 @@ import {
       links: [
         {
           name: "Our Partner",
-          link: "https://portfolio.www.holyentgoldconcept.com/",
+          link: "https://portfolio.holyentgoldconcept.com/",
         },
         {
           name: "Become a Partner",
-          link: "https://portfolio.www.holyentgoldconcept.com/",
+          link: "https://portfolio.holyentgoldconcept.com/",
         },
       ],
     },
